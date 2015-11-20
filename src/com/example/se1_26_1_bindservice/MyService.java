@@ -10,6 +10,7 @@ import android.os.IBinder;
 
 /**
  * @author Administrator
+ * 此为添加git测试内容
  * 当service解绑以后service会销毁掉，但是要注意所起的线程也需要停止，不然线程会单独一直运行
  */
 public class MyService extends Service{
